@@ -41,4 +41,4 @@ public class PurchaseOrdersServer extends CyclicBehaviour {
             block();
         }
     }
-}  // End of inner class OfferRequestsServer
+}
